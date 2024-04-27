@@ -1,0 +1,21 @@
+/*
+ * Custom CSS
+ */
+
+:root {
+    --bs-body-bg: var(--bs-gray-100);
+}
+
+body {
+    background-color: #4D5661;
+}
+
+.hero {
+    height: 50vh;
+}
+
+.bento-box-details {
+    height: 50vh;
+
+}
+
